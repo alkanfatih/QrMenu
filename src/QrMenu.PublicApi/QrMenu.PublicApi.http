@@ -1,0 +1,6 @@
+@QrMenu.PublicApi_HostAddress = http://localhost:5023
+
+GET {{QrMenu.PublicApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

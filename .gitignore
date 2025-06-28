@@ -1,0 +1,26 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.vs/
+*.vscode/
+
+# Rider / JetBrains
+.idea/
+
+# Logs
+*.log
+
+# Build Results
+*.dll
+*.exe
+*.app
+*.so
+
+# User secrets
+secrets.json
+
+# OS
+.DS_Store
+Thumbs.db
